@@ -1,3 +1,3 @@
 #books
 
-BASIC API REST devoloped in Java whith Spring Tools 
+Basic API REST developed with Java and Spring Boot
