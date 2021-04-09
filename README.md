@@ -1,3 +1,3 @@
 #books
 
-Basic API REST developed with Java and Spring Boot
+Basic API REST developed with Spring Boot
